@@ -18,10 +18,10 @@ You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Surve
 
 To move the downloaded files to the specific folder, you can execute. </br>
 
-1. Stackoverflow’s 2017 data </br>
+1. Stackoverflow’s 2019 data </br>
 ` mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2019/survey_results_public.csv `</br>
 
-2. Stackoverflow’s 2018 data </br>
+2. Stackoverflow’s 2020 data </br>
 ` mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2020/survey_results_public.csv `</br>
 
 ## Project Motivation <a name="motivation"></a>
